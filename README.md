@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jinna</h1>
+<h1 align="left">Hi 👋, I'm Jinna</h1>
 - 🔭 My latest project work [Toaa-Niung](https://toaa-niung.vercel.app/)
 
 - 📫 How to reach me **jinna.wnsp@gmail.com**
