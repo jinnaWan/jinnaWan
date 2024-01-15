@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jinna
 
+I'm diving into the world of data pipelining right now. I believe data is super crucial for training machine learning and AI, which is a big thing these days. Also, it plays a key role in analyzing and predicting the future of an organization. A data engineer is like the organizer, making sure that everyone who needs to use the data can easily get their hands on it.
+
 ## 🚀 Latest Project
 - Check out my latest project, [Toaa-Niung](https://toaa-niung.vercel.app/).
 
@@ -21,7 +23,7 @@
 ### Frontend Development
 - React <img height="20" src="https://img.icons8.com/office/16/000000/react.png"/>
 - CSS3 <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-- Tailwind CSS 🖌️ <img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+- Tailwind CSS <img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
 ### Backend Development
 - Node.js <img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
@@ -35,18 +37,3 @@
 ### Database
 - MongoDB <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 - MySQL <img height="20" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
-
-## 🌌 About Me
-
-### 🌟 Life Goal
-Studying Frontend Web development since mid-2021 and venturing into Backend and API development in 2022. I aspire to leverage these skills for financial opportunities.
-
-### 🚀 Learning Journey
-Began with a passion for Data Science, embracing the challenge of learning complex mathematical concepts. Excited about rapid progress and future growth!
-
-## 😻 Interests
-- Stargazing 🌠
-- Machine Learning/Deep Learning
-- Finance 💸
-- Online Learning 📚
-- Blockchain 🪙
