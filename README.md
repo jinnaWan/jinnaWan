@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jinna
 
-I'm diving into the world of data pipelining right now. I believe data is super crucial for training machine learning and AI, which is a big thing these days. Also, it plays a key role in analyzing and predicting the future of an organization. A data engineer is like the organizer, making sure that everyone who needs to use the data can easily get their hands on it.
+I'm currently studying about data pipelining. I believe data is super crucial for training machine learning and AI, which is a big thing these days. Also, it plays a key role in analyzing and predicting the future of an organization. A data engineer is like the organizer, making sure that everyone who needs to use the data can easily get their hands on it.
 
 ## 🚀 Latest Project
 - Check out my latest project, [Toaa-Niung](https://toaa-niung.vercel.app/).
