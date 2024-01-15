@@ -1,44 +1,52 @@
-<h1 align="left">Hi 👋, I'm Jinna</h1>
-- 🔭 My latest project work [Toaa-Niung] (https://toaa-niung.vercel.app/)
+# 👋 Hi, I'm Jinna
 
-- 📫 How to reach me **jinna.wnsp@gmail.com**
+## 🚀 Latest Project
+- Check out my latest project, [Toaa-Niung](https://toaa-niung.vercel.app/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jinna.wannasopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jinna.wannasopa" height="30" width="40" /></a>
-<a href="https://instagram.com/jinna_wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jinna_wan" height="30" width="40" /></a>
-</p>
+## 📬 Contact Me
+- Email: jinna.wnsp@gmail.com
 
-## My Skills
+## 🌐 Connect with me
+- [Facebook](https://fb.com/jinna.wannasopa)
+- [Instagram](https://instagram.com/jinna_wan)
+
+## 💻 My Skills
 
 ### Programming Languages
-<p align="left">
-    <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-    <img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+- JavaScript <img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+- Python <img height="20" src="https://img.icons8.com/fluency/50/000000/python.png"/>
+- SQL <img height="20" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+- C <img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
 ### Frontend Development
-<p align="left"> 
-    <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-    <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-    <img alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-</p>
+- React <img height="20" src="https://img.icons8.com/office/16/000000/react.png"/>
+- CSS3 <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+- Tailwind CSS 🖌️ <img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
 ### Backend Development
-<p align="left"> 
-    <img alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-    <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-</p>
+- Node.js <img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+- Express <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
 
 ### AI/ML
-<p align="left"> 
-    <img alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> 
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-    <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> 
-</p>
+- TensorFlow <img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+- Pandas <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+- Scikit-Learn <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
 ### Database
-<p align="left"> 
-    <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-</p>
+- MongoDB <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+- MySQL <img height="20" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
+
+## 🌌 About Me
+
+### 🌟 Life Goal
+Studying Frontend Web development since mid-2021 and venturing into Backend and API development in 2022. I aspire to leverage these skills for financial opportunities.
+
+### 🚀 Learning Journey
+Began with a passion for Data Science, embracing the challenge of learning complex mathematical concepts. Excited about rapid progress and future growth!
+
+## 😻 Interests
+- Stargazing 🌠
+- Machine Learning/Deep Learning
+- Finance 💸
+- Online Learning 📚
+- Blockchain 🪙
