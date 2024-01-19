@@ -7,6 +7,7 @@ I'm currently studying about data pipelining. I believe data is super crucial fo
 
 ## 📬 Contact Me
 - Email: jinna.wnsp@gmail.com
+- LinkedIn: www.linkedin.com/in/jinna-w-17631a231
 
 ## 🌐 Connect with me
 - [Facebook](https://fb.com/jinna.wannasopa)
