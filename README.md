@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jinna
 
-I'm currently studying about data pipelining. I believe data is super crucial for training machine learning and AI, which is a big thing these days. Also, it plays a key role in analyzing and predicting the future of an organization.
+Believe in the magic of data to fuel innovation! It's not just about AI, but how data helps organizations reach new heights. Excited to dive into the world of possibilities that data brings to help businesses thrive and grow.
 
 ## 📬 Contact Me
 - Email: jinna.wnsp@gmail.com
