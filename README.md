@@ -35,7 +35,3 @@ Believe in the magic of data to fuel innovation! It's not just about AI, but how
 ### Database
 - MongoDB <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 - MySQL <img height="20" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
-
-## 📈 My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnaWan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
