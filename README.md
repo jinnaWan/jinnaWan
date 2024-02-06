@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jinna
 
-Believe in the magic of data to fuel innovation! It's not just about AI, but how data helps organizations reach new heights. Excited to dive into the world of possibilities that data brings to help businesses thrive and grow.
+I'm currently studying computer engineering at [KMUTT](https://www.kmutt.ac.th/), eager to learn more about data, especially data pipelining and visualization. I believe in the potential of data to drive growth and success for organizations. I'm excited to explore the world of possibilities that data offers to help businesses thrive and grow.
 
 ## 📬 Contact Me
 - Email: jinna.wnsp@gmail.com
