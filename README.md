@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jinna
 
-I'm currently studying computer engineering at [KMUTT](https://www.kmutt.ac.th/), eager to learn more about data, especially data pipelining and visualization. I believe in the potential of data to drive growth and success for organizations. I'm excited to explore the world of possibilities that data offers to help businesses thrive and grow.
+I'm currently studying computer engineering at [KMUTT](https://www.kmutt.ac.th/), eager to explore web technologies further. I'm particularly interested in front-end development, back-end systems, and crafting user-friendly experiences. I believe in tech's ability to bring ideas to life and I'm thrilled to be part of the dynamic web community.
 
 ## 📬 Contact Me
 - Email: jinna.wnsp@gmail.com
