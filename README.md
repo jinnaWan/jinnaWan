@@ -10,6 +10,10 @@ I'm currently studying computer engineering at [KMUTT](https://www.kmutt.ac.th/)
 - [Facebook](https://fb.com/jinna.wannasopa)
 - [Instagram](https://instagram.com/jinna_wan)
 
+## 📑 My Resume & Portfolio
+- [Resume](https://drive.google.com/file/d/1F5GbDoDek7PWzOkxENHkOBWsqOfQC1cd/view?usp=sharing)
+- [Portfolio](https://drive.google.com/file/d/1WroLM9_ymteumu4mzKvNu9VWpGTSTd-0/view?usp=sharing)
+
 ## 💻 My Skills
 
 ### Programming Languages
